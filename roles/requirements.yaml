@@ -1,0 +1,7 @@
+- src: https://github.com/my0373/ansible_tmux.git
+  name: ansible_tmux
+  scm: git
+
+- src: https://github.com/my0373/ansible_vim.git
+  name: ansible_vim
+  scm: git
