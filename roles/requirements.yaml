@@ -5,3 +5,11 @@
 - src: https://github.com/my0373/ansible_vim.git
   name: ansible_vim
   scm: git
+
+- src: https://github.com/my0373/ansible_chrome.git
+  name: ansible_chrome
+  scm: git
+
+- src: https://github.com/my0373/ansible_common_linux_packages.git
+  name: ansible_common_linux_packages
+  scm: git

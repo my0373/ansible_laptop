@@ -1,0 +1,9 @@
+- name: Setup P50 laptop
+  hosts: localhost
+  connection: local
+  gather_facts: true
+  roles:
+    - ansible_tmux
+    - ansible_vim
+    - ansible_chrome
+    - ansible_common_linux_packages
